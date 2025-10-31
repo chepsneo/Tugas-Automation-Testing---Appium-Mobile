@@ -1,6 +1,3 @@
-Keren banget Cheps! 🎉 Dari screenshot GitHub kamu, struktur project-nya sudah rapi dan sesuai dengan standar QA automation:
-
----
 
 ## ✅ Struktur Project
 
@@ -71,5 +68,6 @@ Isi PDF-nya:
 ---
 
 Kalau kamu mau, aku bisa bantu susun isi PDF atau bantu review README sebelum kamu submit ke LMS. Mau lanjut ke PDF atau ada bagian lain yang mau dirapikan dulu?
+
 
 
