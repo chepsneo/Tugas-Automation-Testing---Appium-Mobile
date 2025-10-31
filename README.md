@@ -43,10 +43,8 @@ Project ini menggunakan Appium dan WebDriverIO untuk menguji aplikasi Android se
 ## ✅ Hasil Test
 
 - Test berhasil dijalankan dengan output:
-  ```
   Spec Files: 1 passed, 1 total (100% completed)
-  ```
-
+  
 ## 📸 Screenshot
 
 Lampirkan screenshot hasil test dari terminal.
@@ -54,9 +52,6 @@ Lampirkan screenshot hasil test dari terminal.
 ## 🔗 Link Repository
 
 [https://github.com/chepsneo/Tugas-Automation-Testing---Appium-Mobile](https://github.com/chepsneo/Tugas-Automation-Testing---Appium-Mobile)
-```
-
----
 
 ### 📄 2. Susun PDF Submission
 
@@ -65,9 +60,7 @@ Isi PDF-nya:
 - Halaman 2: Link GitHub
 - Halaman 3: Screenshot hasil test
 
----
 
-Kalau kamu mau, aku bisa bantu susun isi PDF atau bantu review README sebelum kamu submit ke LMS. Mau lanjut ke PDF atau ada bagian lain yang mau dirapikan dulu?
 
 
 
