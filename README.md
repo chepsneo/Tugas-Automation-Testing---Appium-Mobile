@@ -2,7 +2,7 @@ Keren banget Cheps! 🎉 Dari screenshot GitHub kamu, struktur project-nya sudah
 
 ---
 
-## ✅ Struktur Project Kamu
+## ✅ Struktur Project
 
 ```
 appium_mobile/
@@ -71,4 +71,5 @@ Isi PDF-nya:
 ---
 
 Kalau kamu mau, aku bisa bantu susun isi PDF atau bantu review README sebelum kamu submit ke LMS. Mau lanjut ke PDF atau ada bagian lain yang mau dirapikan dulu?
+
 
