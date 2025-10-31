@@ -15,9 +15,6 @@ appium_mobile/
 
 ## 🔄 Langkah Selanjutnya
 
-### 📄 1. Pastikan README.md Sudah Lengkap
-Kalau belum, kamu bisa pakai template ini:
-
 ```markdown
 # 📱 Tugas Automation Testing - Appium Mobile
 
@@ -59,6 +56,7 @@ Isi PDF-nya:
 - Halaman 1: Judul + Nama + Kelas
 - Halaman 2: Link GitHub
 - Halaman 3: Screenshot hasil test
+
 
 
 
