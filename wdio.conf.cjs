@@ -3,15 +3,14 @@ exports.config = {
   specs: ['./test/*.js'],
   maxInstances: 1,
 
-  capabilities: [{
-    platformName: 'Android',
-    'appium:deviceName': 'R9RY80376LR', // device kamu
-    'appium:platformVersion': '15',     // versi Android kamu
-    'appium:automationName': 'UiAutomator2',
-    'appium:appPackage': 'io.appium.android.apis', // hasil dari dumpsys
-    'appium:appActivity': '.ApiDemos',             // hasil dari dumpsys
-    'appium:noReset': true
-  }],
+capabilities: [{
+  platformName: 'Android',
+  'appium:deviceName': 'emulator-5554', // atau nama emulator kamu
+  'appium:platformVersion': '11',       // sesuaikan dengan emulator
+  'appium:automationName': 'UiAutomator2',
+  'appium:appPackage': 'io.appium.android.apis',
+  'appium:appActivity': '.ApiDemos',
+}],
 
   logLevel: 'info',
   framework: 'mocha',
